@@ -6,4 +6,8 @@ This repository contains the following supplementary material for the paper _All
 
 ## Authors
 
-redacted for review
+- Tobias Hilbig
+- Erwin Kupris
+- Thomas Schreck
+
+[Research Group Homepage](https://seclab.cs.hm.edu/)
