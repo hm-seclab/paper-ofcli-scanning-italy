@@ -12,4 +12,4 @@ This repository contains the following supplementary material for the paper _All
 
 [Research Group Homepage](https://seclab.cs.hm.edu/)
 
-[Dashboard](https://oidfed.seclab.cs.hm.edu/)
+[OpenID Federation Dashboard](https://oidfed.seclab.cs.hm.edu/)
