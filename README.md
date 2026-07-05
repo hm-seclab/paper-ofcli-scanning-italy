@@ -11,4 +11,5 @@ This repository contains the following supplementary material for the paper _All
 - Thomas Schreck
 
 [Research Group Homepage](https://seclab.cs.hm.edu/)
+
 [Dashboard](https://oidfed.seclab.cs.hm.edu/)
